@@ -87,10 +87,16 @@ return 0;
 ## OUTPUT
 
 C program that illustrates files copying
+
+
 ![image](https://github.com/user-attachments/assets/5c3db474-de41-448a-a1ba-644ae7b15884)
 
 C program that illustrates files locking
-![Uploading image.png…]()
+
+
+![image](https://github.com/user-attachments/assets/2ab6530f-ee98-404e-9746-62ee4ee47652)
+
+
 
 # RESULT:
 The programs are executed successfully.
